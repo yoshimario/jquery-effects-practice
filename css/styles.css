@@ -1,12 +1,11 @@
-#item-showing {
+#initially-showing{
   display: none;
 }
-p {
-  cursor: pointer;
-  color: #0088cc;
+p.show{
+  color: #c3cf53;
 }
 
-p:hover {
+p.show:hover {
   text-decoration: underline;
 }
 .clickable {
